@@ -8,5 +8,4 @@ animals.Add(new OrangOutan("Gérard", 13, "rouge"));
 foreach (Animal bete in animals)
 {
     Console.WriteLine(bete);
-
 }
